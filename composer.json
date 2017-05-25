@@ -4,5 +4,15 @@
         "psr-4" : {
             "Seregahere\\WPPostsManipulate\\" : "src"
         }
-    }
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0|7.*"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/seregahere/wp-posts-manipulate"
+        }
+    ],
 }
