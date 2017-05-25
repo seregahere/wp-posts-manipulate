@@ -11,8 +11,16 @@
     },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/seregahere/wp-posts-manipulate"
+          "type": "package",
+          "package": {
+                "name": "seregahere/wp-posts-manipulate",
+                "version": "dev-master",
+                "source": {
+                  "type": "git",
+                  "url": "https://github.com/seregahere/wp-posts-manipulate.git",
+                  "reference": "master"
+                }
+            }
         }
     ]
 }
