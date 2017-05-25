@@ -2,6 +2,12 @@
     "name": "seregahere/wp-posts-manipulate",
     "type": "library",
     "minimum-stability": "dev",
+    "authors": [
+        {
+          "name": "Siarhei Razuvalau",
+          "email": "sergey@razuvalov.com"
+        }
+    ],
     "autoload": {
         "psr-4" : {
             "Seregahere\\WPPostsManipulate\\" : "src"
