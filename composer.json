@@ -1,5 +1,7 @@
 {
     "name": "seregahere/wp-posts-manipulate",
+    "type": "library",
+    "version": "1.0.0",
     "autoload": {
         "psr-4" : {
             "Seregahere\\WPPostsManipulate\\" : "src"
