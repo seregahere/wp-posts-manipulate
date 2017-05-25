@@ -1,0 +1,8 @@
+{
+    "name": "seregahere/wp-posts-manipulate",
+    "autoload": {
+        "psr-4" : {
+            "Seregahere\\WPPostsManipulate\\" : "src"
+        }
+    }
+}
