@@ -1,7 +1,7 @@
 {
     "name": "seregahere/wp-posts-manipulate",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
           "name": "Siarhei Razuvalau",
